@@ -22,10 +22,12 @@ namespace ForkStart_Group
       // team member A's content goes here
       Debug.WriteLine("Hello World from David Lam!");
 
-      // team member B's content goes here
+     // team member B's content goes here
+     Debug.WriteLine("Hello World from Kirti Tiwari!");
 
-      // team member C's content goes here
-
-    }
+            // team member C's content goes here
+            Console.ReadKey();
+        }
+        
   }
 }
